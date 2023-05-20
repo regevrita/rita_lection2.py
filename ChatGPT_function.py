@@ -4,19 +4,6 @@ import requests
 
 
 
-#
-# URL = 'https://data.fixer.io/api/convert'
-#
-#
-# response = requests.get(URL, params=
-#     {
-#     "access_key": 52.52,
-#     "from": ,
-#     'to': }).json()
-#
-# print(response['current_weather']['windspeed'])
-
-
 URL = 'https://api.openai.com/v1/chat/completions'
 
 
